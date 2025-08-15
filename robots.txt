@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://swiftchilla.com/sitemap.xml
